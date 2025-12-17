@@ -1,3 +1,6 @@
+## 📄 Documentation
+Consultez le [Rapport complet du projet](docs/Rapport_Projet.pdf) ou la [Présentation](docs/PRESENTATION_PROJET_FINAL-PYTHON.pptx) pour plus de détails sur l'architecture et les choix techniques.
+
 
 # Project Setup
 
